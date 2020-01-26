@@ -1,5 +1,5 @@
 # UTSA-BC-Homework
-# Code Refactor
+## Code Refactor
 
 For the following homework assignment I cleaned up the code symantically and adde a few alt atributes to the img tags.
 Listed are the following changes that were done:
