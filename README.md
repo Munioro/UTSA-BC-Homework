@@ -27,3 +27,5 @@ Listed are the following changes that were done:
 * The 'div' container of line 76-82 was replaced with a 'footer' container.
 
 * The 'h2' tag on line 78 was replaced with a 'h2' tag.
+
+<img src="../../../Portfolio/blob/master/assets/images/SEO.png" width=500>
